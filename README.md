@@ -6,13 +6,13 @@ This repository consolidates the completed Java tutorial work for the OOP fundam
 
 - `README.md`
 - `SELF_REFLECTIVE_REPORT.md`
-- `week01/`
-- `week02/`
-- `week03-04/`
-- `week05/`
-- `week06/`
-- `week07/`
-- `week08-09/`
+- `week1/`
+- `week2/`
+- `week3-4/`
+- `week5/`
+- `week6/`
+- `week7/`
+- `week8-9/`
 - `week10/`
 
 ## How to use
