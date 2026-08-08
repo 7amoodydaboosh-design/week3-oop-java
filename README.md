@@ -1,18 +1,18 @@
 # Object-Oriented Programming Fundamentals in Java
 
-This repository consolidates completed Java tutorial work for the OOP fundamentals subject. It is organized by week and includes the source code for each week's practical exercises.
+This repository consolidates the completed Java tutorial work for the OOP fundamentals subject. It is organized in a clear weekly order for easy navigation.
 
 ## Repository structure
 
 - `README.md`
 - `SELF_REFLECTIVE_REPORT.md`
-- `week1/`
-- `week2/`
-- `week3-4/`
-- `week5/`
-- `week6/`
-- `week7/`
-- `week8-9/`
+- `week01/`
+- `week02/`
+- `week03-04/`
+- `week05/`
+- `week06/`
+- `week07/`
+- `week08-09/`
 - `week10/`
 
 ## How to use

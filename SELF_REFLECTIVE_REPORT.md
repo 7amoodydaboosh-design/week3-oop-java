@@ -2,27 +2,19 @@
 
 ## Learning Experience
 
-Throughout this OOP fundamentals course, I have learned how to use Java classes, objects, constructors, methods, and encapsulation. Completing the weekly tutorials helped me understand how to structure programs with separate source files and how to organize projects by functionality.
+During this course, I learned the basic principles of object-oriented programming in Java. The weekly tutorials helped me understand classes, objects, methods, constructors, and how to structure simple applications.
 
-## Challenges Encountered
+## Challenges Faced
 
-- Understanding the Java class and file naming rules, such as matching public class names to file names.
-- Remembering how to compile and run Java programs from the command line.
-- Organizing code into consistent weekly folders while preserving the completed tutorial work.
+The main challenges were understanding Java syntax, compiling and running programs correctly, and organizing the files in a clear repository structure.
 
-## Knowledge Gained
+## What I Learned
 
-- Java syntax for classes, methods, and control flow.
-- Basic OOP concepts, including objects, state, and behavior.
-- Project organization using folders and documentation with a README.
-- Using Git for version control and preparing a repository for submission.
+- How to create and use classes and objects
+- How to use methods and constructors
+- How to organize Java programs by week
+- How to use Git and GitHub for project management
 
-## Repository Organization
+## Conclusion
 
-This repository is organized into weekly folders: `week1`, `week2`, `week3-4`, `week5`, `week6`, `week7`, `week8-9`, and `week10`. Each folder contains source files related to the tutorials completed during that period.
-
-## Next Steps
-
-- Keep the repository updated with any additional tutorial work.
-- Improve documentation for each week by adding summaries or instructions in the folder if needed.
-- Practice more Java exercises and add them to the appropriate weekly folder.
+This assignment helped me improve my programming skills and understand the importance of documentation, organization, and version control in software development.
