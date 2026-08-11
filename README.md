@@ -70,4 +70,3 @@ java Main
 
 This repository captures the learning journey through the first ten weeks of the OOP fundamentals course. The weekly exercises strengthened understanding of Java programming fundamentals, object-oriented design, and code organization. Reflection on the projects highlights improved confidence in writing clean Java code, designing class relationships, and solving problems systematically.
 
-> Note: Replace the placeholder values for student name, student ID, course code, and institution with your actual information.
